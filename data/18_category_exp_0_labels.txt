@@ -1,0 +1,18 @@
+others
+building,hoevl hut shack
+sky
+tree, plant, flora, plant life
+car, suv,car, auto, automobile, machine, motorcar, van
+Pedestrian, people
+Road,sidewalk, pavement, runway, dirt track
+sea, water, fountain, swimming pool, waterfall
+mountain
+signboard, sign, streetlight, pole, traffic light, traffic signal, stoplight
+animal
+bike,motorbike
+window, mirror
+ground, sand
+rock,stone
+grass, field
+wall, fense, rail, handrail
+bridge

@@ -1,0 +1,15 @@
+others
+building
+sky
+tree,plant,flora,plantlife
+car, suv,car,auto,automobile,machine,motorcar,van
+Pedestrian,people
+Road,sidewalk,pavement,runway
+water,fountain,swimmingpool,waterfall
+mountain
+signboard,sign,streetlight,pole,trafficlight,trafficsignal,stoplight
+animal
+bike
+window,mirror
+ground,sand
+rock

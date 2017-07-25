@@ -1,0 +1,22 @@
+other
+building
+sky
+vegetation
+car
+person
+road
+sidewalk
+rider
+truck
+traffic sign
+bus
+bicycle
+on rails
+motorcycle
+terrain
+fence
+pole 
+wall
+traffic light
+
+
